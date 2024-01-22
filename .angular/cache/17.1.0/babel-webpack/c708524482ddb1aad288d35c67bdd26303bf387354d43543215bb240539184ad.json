@@ -1,0 +1,1 @@
+{"ast":null,"code":"export class Forecast {\n  constructor(day, icon, tempMax, tempMin) {\n    this.day = day;\n    this.icon = icon;\n    this.tempMax = tempMax;\n    this.tempMin = tempMin;\n  }\n}","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { RouterModule } from '@angular/router';\nimport { ForecastComponent } from './forecast/forecast.component';\nconst WEATHER_ROUTER = [{\n  path: '',\n  component: ForecastComponent\n}];\nexport const weatherRouting = RouterModule.forRoot(WEATHER_ROUTER);","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}
